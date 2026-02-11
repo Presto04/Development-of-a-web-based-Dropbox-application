@@ -31,7 +31,7 @@ const Auth: React.FC<AuthProps> = ({ onLogin }) => {
             <div className="inline-flex items-center justify-center w-16 h-16 rounded-2xl bg-indigo-600 mb-6 shadow-lg shadow-indigo-500/20">
               <Shield className="text-white" size={32} />
             </div>
-            <h1 className="text-2xl font-bold text-white mb-2">Category Defender</h1>
+            <h1 className="text-2xl font-bold text-white mb-2">Dropbox Prototype</h1>
             <p className="text-slate-400">Secure Access Management System</p>
           </div>
           

@@ -1,5 +1,5 @@
 {
-  "name": "Category Defender: Secure File Dropbox",
+  "name": "Dropbox Prototype: Secure File Dropbox",
   "description": "A secure web-based file dropbox application featuring role-based access control, file sanitization, and AI-powered security scanning.",
   "requestFramePermissions": []
 }

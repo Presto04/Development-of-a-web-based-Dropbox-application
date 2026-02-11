@@ -7,7 +7,7 @@ const SecurityReport: React.FC = () => {
     <div className="space-y-8 bg-white p-8 rounded-2xl border border-slate-200 shadow-sm max-w-4xl mx-auto">
       <div className="border-b border-slate-100 pb-6 text-center">
         <h1 className="text-3xl font-black text-slate-900 mb-2">Security Architecture Analysis</h1>
-        <p className="text-slate-500">Official Report for Category Defender Protocol</p>
+        <p className="text-slate-500">Official Report for Dropbox Prototype Protocol</p>
       </div>
 
       <div className="grid grid-cols-1 md:grid-cols-2 gap-8">
@@ -96,7 +96,7 @@ const SecurityReport: React.FC = () => {
             Comparison
           </h3>
           <p className="text-xs text-slate-500 leading-relaxed">
-            Unlike standard Dropbox, Category Defender integrates **Proactive AI Security** directly into the upload lifecycle, ensuring that metadata is vetted before it enters the application context.
+            Unlike standard Dropbox, Dropbox Prototype integrates **Proactive AI Security** directly into the upload lifecycle, ensuring that metadata is vetted before it enters the application context.
           </p>
         </div>
       </div>

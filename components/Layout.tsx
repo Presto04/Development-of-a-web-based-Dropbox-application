@@ -26,7 +26,7 @@ const Layout: React.FC<LayoutProps> = ({ user, onLogout, activeTab, setActiveTab
           <div className="bg-indigo-600 p-2 rounded-lg">
             <Shield className="text-white" size={24} />
           </div>
-          <span className="font-bold text-lg tracking-tight">Category Defender</span>
+          <span className="font-bold text-lg tracking-tight">Dropbox Prototype</span>
         </div>
         
         <nav className="flex-1 p-4 space-y-2">
@@ -68,7 +68,7 @@ const Layout: React.FC<LayoutProps> = ({ user, onLogout, activeTab, setActiveTab
 
       {/* Main Content */}
       <main className="flex-1 overflow-y-auto bg-slate-50 p-4 md:p-8">
-        <div className="max-w-6xl mx-auto">
+        <div className="max-w-6xl auto">
           {children}
         </div>
       </main>
